@@ -1,0 +1,29 @@
+_repo: Twice-born-Men-in-America-or-The-Psychology-of-Conversion-as-Seen-by-a-Christian-Psychologist__53014
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monroe, Harriet Earhart
+    birthdate: 1842
+    deathdate: 1927
+    gutenberg_agent_id: '46521'
+    url: http://www.gutenberg.org/2009/agents/46521
+description: ''
+gutenberg_issued: '2016-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53014'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Institutional missions'
+- !lcsh 'Psychology, Religious'
+- !lcc 'BV'
+- !lcsh 'Conversion -- Christianity'
+- !lcsh 'Conversion -- Psychology'
+- !lcsh 'Evangelistic work'
+- GITenberg
+title: "Twice-born Men in America\r\nor, The Psychology of Conversion as Seen by a\
+  \ Christian Psychologist in Rescue Mission Work"
+url: http://www.gutenberg.org/ebooks/53014
